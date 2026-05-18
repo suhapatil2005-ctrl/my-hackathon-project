@@ -1,0 +1,7 @@
+```text
+flask
+flask-cors
+pandas
+scikit-learn
+matplotlib
+```
